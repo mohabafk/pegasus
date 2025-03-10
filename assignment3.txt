@@ -1,0 +1,11 @@
+Private IP vs Public IP:
+Public IP: An address used to identify a device on the internet. It's unique across the world (e.g., 8.8.8.8).
+Private IP: An address used within a local network. It's not visible on the internet (e.g., 192.168.1.1). Private IPs are reused in different networks.
+
+IPv4 vs IPv6:
+IPv4: The most common version of IP, uses 32-bit addresses (e.g., 192.168.1.1). It can support about 4.3 billion unique addresses.
+IPv6: The newer version, using 128-bit addresses (e.g., 2001:0db8:85a3:0000:0000:8a2e:0370:7334). It can support a huge number of unique addresses (enough for every device in the world).
+
+TCP vs UDP:
+TCP (Transmission Control Protocol): A connection-based protocol. It ensures data is delivered in order and without errors. Used for reliable communications (e.g., web browsing).
+UDP (User Datagram Protocol): A connectionless protocol. It sends data without ensuring delivery or order. It's faster but less reliable (e.g., video streaming, online games).
